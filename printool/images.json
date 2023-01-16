@@ -1,5 +1,5 @@
 {
-  "pk_xd": [{"title": "Dustin - PK XD", "url":"https://raw.githubusercontent.com/raulmu/assets/main/printool/img/pk_xd_1.jpg"},
-           {"title": "Menino - PK XD", "url":"https://raw.githubusercontent.com/raulmu/assets/main/printool/img/pk_xd_2.png"},
-          {"title": "Pet - PK XD", "url":"https://raw.githubusercontent.com/raulmu/assets/main/printool/img/pk_xd_3.png"}]
+  "pk_xd": [{"title": "Dustin - PK XD", "orientation": "portrait", "url":"https://raw.githubusercontent.com/raulmu/assets/main/printool/img/pk_xd_1.jpg"},
+           {"title": "Menino - PK XD", "orientation": "portrait", "url":"https://raw.githubusercontent.com/raulmu/assets/main/printool/img/pk_xd_2.png"},
+          {"title": "Pet - PK XD", "orientation": "landscape", "url":"https://raw.githubusercontent.com/raulmu/assets/main/printool/img/pk_xd_3.png"}]
 }
